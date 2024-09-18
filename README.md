@@ -2,7 +2,7 @@
 
 [Click here to view the interactive version of this dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTUyZWU5ZDgtMjQzYi00NDhhLWFhOGYtMTk4MTAwMDU0M2Q5IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
-![Dashboard](EV Analysis.jpg)
+![Dashboard](https://github.com/souljakarthik/EV-Market-Analysis/blob/6dca2ae870d87abbcd91efae3a964e246996f5b4/EV%20Analysis.jpg)
 
 ### Overview
 
@@ -38,4 +38,5 @@
 **Charging Infrastructure:** Assess the adequacy of charging infrastructure and identify areas for improvement.<br>
 **Battery Technology:** Explore advancements in battery technology to increase range and reduce costs.<br>
 **Consumer Preferences:** Understand consumer preferences and needs to drive innovation in the electric vehicle market.<br>
+
 By analyzing these insights and recommendations, stakeholders can make informed decisions to promote the adoption of electric vehicles and contribute to a more sustainable future.
