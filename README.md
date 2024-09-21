@@ -25,7 +25,7 @@
 **Market Dominance:** Battery Electric Vehicles (BEVs) constitute ***78% of the total vehicles***, indicating their dominance in the market.<br>
 **PHEV Percentage:** Plug-in Hybrid Electric Vehicles (PHEVs) make up ***22% of the total***.<br>
 
-#### Top Manufacturers :
+#### Top Vehicles by Make:
 
 **Market Leaders:** ***Tesla, Nissan, and Chevrolet*** are the top manufacturers in terms of the number of electric vehicles.<br>
 
